@@ -1,0 +1,1 @@
+This code was created to show animations and facts about the plants that are on the page. The paragraph under the sun disappears once you roll over the sun, when you click on mercury you can type in numbers 1-5 and facts will appear and the same for jupiter. Jupiter also flips back and fouth once hovered over.
